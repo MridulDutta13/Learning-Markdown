@@ -68,9 +68,14 @@ To exit, double return. How did I start, I used 4-time return.
 * Brush
 * Bath
 * Dressup
-* 
+* Oh no! Office!!
+
+To exit, double return. I used asterisk for the list.
+
+##### Experiment time!! I love this!!
+We know that asterisk can be used for *italics* or **bold**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTk3NzgzNSwxNTYzMjU5NjA0LDUxNT
-A0NTg2NCwtMjQ3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3
-NCwxMjc4NjkyOTQxXX0=
+eyJoaXN0b3J5IjpbMTQyNjEwNzQ2LDE1NjMyNTk2MDQsNTE1MD
+Q1ODY0LC0yNDc5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0
+LDEyNzg2OTI5NDFdfQ==
 -->
