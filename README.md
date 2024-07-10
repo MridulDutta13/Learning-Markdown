@@ -38,7 +38,7 @@ Like it or not, the _quick_ fox was not as *quick* as the lazy dog. For italics,
 Similarly for bold, we can use double underscore or asterisk. Always try to be __bold__, not really that kind of **bold**.
 Now if you want to mention a variable name like var_example_int, then this is different case.
 
-So, this shows that if there is any letter or number at either end, then it will not work. Is this happening because of Git flavored Markdown? Think!!
+So, this shows that if there is any letter or number at either end, then it will not work. Is this happening because of Git flavored Markdown? Think!!  
 **Repeat the same using asterisk.**
 **Please note: Never use spaces before putting asterisk, like this. **
 Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! Now it works. Need to experiment like this buddy.
@@ -53,6 +53,6 @@ Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! N
 
 Try using double enter or return command.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTgxNTEyOCwtMjQ3OTkyNDkwLDE1Nj
-kwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
+eyJoaXN0b3J5IjpbLTE5NTcwNjMzODQsLTI0Nzk5MjQ5MCwxNT
+Y5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
 -->
