@@ -16,6 +16,8 @@ Here's something new,
 I am using double spaces before hitting enter,  
 and the results are surprising.
 
+This proves that, we can use double blank spaces before hitting enter to use a line break.
+
 Let's try header levels. there is a limit of maximum 6 levels.
 # Header 1
 ## Header 2
@@ -41,6 +43,6 @@ So, this shows that if there is any letter or number at either end, then it will
 **Please note: Never use spaces before putting asterisk, like this. **
 Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! Now it works. Need to experiment like this buddy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEyNzc1NCwtMjQ3OTkyNDkwLDE1Nj
-kwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
+eyJoaXN0b3J5IjpbODYxMTQxMjYzLC0yNDc5OTI0OTAsMTU2OT
+A3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
 -->
