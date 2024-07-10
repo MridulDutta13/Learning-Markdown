@@ -27,11 +27,13 @@ Let's try header levels. there is a limit of maximum 6 levels.
 This shows that there is a limit of 6 levels.
 One more thing to note here is that multiple spaces are combined and reduced to a single line space.
 # Emphasis
-Like it or not, the _quick_ fox was not as *quick* as the lazy dog. For italics, we can use any of the two, single underscore or single asterisk on each side of the word. Trying "_lazy_", using quotation but it works, there are no spaces at the _beginning or end_. This proves 
+Like it or not, the _quick_ fox was not as *quick* as the lazy dog. For italics, we can use any of the two, single underscore or single asterisk on each side of the word. Trying "_lazy_", using quotation but it works, there are no spaces at the _beginning or end_. This proves **multiple words also work**. But if there are numbers then what happens. Let's see this with 1_example_.
 
 Similarly for bold, we can use double underscore or asterisk. Always try to be __bold__, not really that kind of **bold**.
 Now if you want to mention a variable name like var_example_int, then this is different case.
+
+So, this shows that if there is any letter or number, then it will not work.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg0NTg3ODksMTEzMzI0MDY3NCwxMj
+eyJoaXN0b3J5IjpbLTIxNDM4NzA1MjEsMTEzMzI0MDY3NCwxMj
 c4NjkyOTQxXX0=
 -->
