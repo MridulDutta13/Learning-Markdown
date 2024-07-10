@@ -75,7 +75,7 @@ To exit, double return. I used asterisk for the list.
 ##### Experiment time!! I love this!!
 We know that asterisk can be used for *italics* or **bold**.
 
-Then how to use with with lists?
+Then how to use with lists?
 
 * *Trying Italics*
 * **Trying Bold**
@@ -91,7 +91,7 @@ Now let's try numbered list.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNT
-A0NTg2NCwtMjQ3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3
-NCwxMjc4NjkyOTQxXX0=
+eyJoaXN0b3J5IjpbMTcwMTIyMjkwMiwxOTI0NTI3NjEwLDE1Nj
+MyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OTA3NTAx
+NywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
 -->
