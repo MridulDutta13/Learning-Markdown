@@ -42,7 +42,12 @@ So, this shows that if there is any letter or number at either end, then it will
 **Repeat the same using asterisk.**
 **Please note: Never use spaces before putting asterisk, like this. **
 Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! Now it works. Need to experiment like this buddy.
+# Quotes: how to use?
+> This is how you should use. Use > symbol.
+This looks good. But how to exit.
+
+Try 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTk0NTg4LC0yNDc5OTI0OTAsMTU2OT
-A3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjg0Mzc2OTcsLTI0Nzk5MjQ5MCwxNT
+Y5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
 -->
