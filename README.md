@@ -89,9 +89,9 @@ Now let's try numbered list.
 4. I deleted 4 and wrote 5.
 5. But it got auto corrected.
 
-
+Easy peasy!! Nested lists?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTIyMjkwMiwxOTI0NTI3NjEwLDE1Nj
-MyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OTA3NTAx
-NywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
+eyJoaXN0b3J5IjpbNjE2Nzk2MTQzLDE3MDEyMjI5MDIsMTkyND
+UyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMjQ3OTkyNDkw
+LDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
 -->
