@@ -81,8 +81,14 @@ Then how to use with with lists?
 * **Trying Bold**
 
 WOW! this was very easy.
+
+Now let's try numbered list.
+1. I like rice.
+2. I don't like roti.
+3. This is auto-numbering.
+4.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI0ODk3MTYsMTU2MzI1OTYwNCw1MT
+eyJoaXN0b3J5IjpbLTE3MjgyMjU5MjgsMTU2MzI1OTYwNCw1MT
 UwNDU4NjQsLTI0Nzk5MjQ5MCwxNTY5MDc1MDE3LDExMzMyNDA2
 NzQsMTI3ODY5Mjk0MV19
 -->
