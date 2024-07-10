@@ -52,7 +52,11 @@ Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! N
 
 
 Try using double enter or return command.
+
+# Codes
+Use `Ctrl + C` to copy. That's easy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OT
-A3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
+eyJoaXN0b3J5IjpbLTEwNzg0NjI5OTgsNTE1MDQ1ODY0LC0yND
+c5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5
+NDFdfQ==
 -->
