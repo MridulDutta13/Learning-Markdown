@@ -46,8 +46,8 @@ Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! N
 > This is how you should use. Use > symbol.
 This looks good. But how to exit.
 
-Try 
+Try using double enter.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg0Mzc2OTcsLTI0Nzk5MjQ5MCwxNT
-Y5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
+eyJoaXN0b3J5IjpbLTQwMTg4NTIwNCwtMjQ3OTkyNDkwLDE1Nj
+kwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
 -->
