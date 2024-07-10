@@ -24,8 +24,12 @@ Let's try header levels. there is a limit of maximum 6 levels.
 
 ###### Header 6
 ####### Header 7
-This shows that there is a limit of 
+This shows that there is a limit of 6 levels.
+One more thing to note here is that multiple spaces are combined and reduced to a single line space.
+# Emphasis
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3MzA4MjksMTEzMzI0MDY3NCwxMjc4Nj
-kyOTQxXX0=
+eyJoaXN0b3J5IjpbLTE1ODg2NDI2MjMsMTEzMzI0MDY3NCwxMj
+c4NjkyOTQxXX0=
 -->
