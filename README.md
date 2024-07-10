@@ -100,8 +100,19 @@ Easy-peasy!! Nested lists?
 	* South A
 		* We have Hatch office here.
 	* Kenya
+
+Can we combine bullets with numbers?
+
+1. Fruits
+	2. Mango
+	3. Banana
+2. Veggies
+	3. Potato
+	4. Tomato
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTAyMTI2NywxNzAxMjIyOTAyLDE5Mj
-Q1Mjc2MTAsMTU2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nzk5MjQ5
-MCwxNTY5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
+eyJoaXN0b3J5IjpbNzIxNjMxMzg2LDE3MDEyMjI5MDIsMTkyND
+UyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMjQ3OTkyNDkw
+LDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
 -->
