@@ -27,9 +27,11 @@ Let's try header levels. there is a limit of maximum 6 levels.
 This shows that there is a limit of 6 levels.
 One more thing to note here is that multiple spaces are combined and reduced to a single line space.
 # Emphasis
-Like it or not, the _quick_ fox was not as *quick* as the lazy dog. For italics, we can use any of the two, single underscore and asterisk on each side of the word.
+Like it or not, the _quick_ fox was not as *quick* as the lazy dog. For italics, we can use any of the two, single underscore or single asterisk on each side of the word.
+
+Similarly for bold, we can use double underscore or asterisk. Always try to be __bold__, not really that kind of **bold**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwMzE5MzA1LDExMzMyNDA2NzQsMTI3OD
-Y5Mjk0MV19
+eyJoaXN0b3J5IjpbLTU4MDE0NjgyNCwxMTMzMjQwNjc0LDEyNz
+g2OTI5NDFdfQ==
 -->
