@@ -89,9 +89,13 @@ Now let's try numbered list.
 4. I deleted 4 and wrote 5.
 5. But it got auto corrected.
 
-Easy peasy!! Nested lists?
+Easy-peasy!! Nested lists?
+
+* Asia
+	* India
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2Nzk2MTQzLDE3MDEyMjI5MDIsMTkyND
-UyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMjQ3OTkyNDkw
-LDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
+eyJoaXN0b3J5IjpbLTIwMzkwMTcyMywxNzAxMjIyOTAyLDE5Mj
+Q1Mjc2MTAsMTU2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nzk5MjQ5
+MCwxNTY5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
 -->
