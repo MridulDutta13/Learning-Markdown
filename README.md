@@ -61,9 +61,9 @@ Use `Ctrl + C` to copy. That's easy. Use backtick ` symbol.
     # for remark
     happy now
 
-
+To exit, double return. How did I start, I used 4 time return.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDQ5OTYzMiw1MTUwNDU4NjQsLTI0Nz
+eyJoaXN0b3J5IjpbMTExNjc2NTUwNSw1MTUwNDU4NjQsLTI0Nz
 k5MjQ5MCwxNTY5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0
 MV19
 -->
