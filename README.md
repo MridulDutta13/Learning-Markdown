@@ -12,7 +12,7 @@ and the fox died.
 
 The lazy dog was sleeping, and the quick fox jumped over the dog.
 
-Here's something new,--
+Here's something new,  
 I am using double spaces before hitting enter,  
 and the results are surprising.
 
@@ -41,6 +41,6 @@ So, this shows that if there is any letter or number at either end, then it will
 **Please note: Never use spaces before putting asterisk, like this. **
 Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! Now it works. Need to experiment like this buddy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzk5MjQ5MCwxNTY5MDc1MDE3LDExMz
-MyNDA2NzQsMTI3ODY5Mjk0MV19
+eyJoaXN0b3J5IjpbLTEyODEyNzc1NCwtMjQ3OTkyNDkwLDE1Nj
+kwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
 -->
