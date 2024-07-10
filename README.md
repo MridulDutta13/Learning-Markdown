@@ -117,10 +117,15 @@ Great topic for experiment. And you should know now, HOW MUCH I LOVE EXPERIMENTS
 
 1. Fruits
 	* Mango
-	* 
+	* Banana
+2. Veggies
+	* Potato
+	* Tomato
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTg5ODMzNiw3MjE2MzEzODYsMTcwMT
-IyMjkwMiwxOTI0NTI3NjEwLDE1NjMyNTk2MDQsNTE1MDQ1ODY0
-LC0yNDc5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNz
-g2OTI5NDFdfQ==
+eyJoaXN0b3J5IjpbLTE2MjYxNTA0NDgsNzIxNjMxMzg2LDE3MD
+EyMjI5MDIsMTkyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2
+NCwtMjQ3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMj
+c4NjkyOTQxXX0=
 -->
