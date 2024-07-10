@@ -122,10 +122,12 @@ Great topic for experiment. And you should know now, HOW MUCH I LOVE EXPERIMENTS
 	* Potato
 	* Tomato
 
+Alas, I could only use bullets combined with numbers for nesting.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYxNTA0NDgsNzIxNjMxMzg2LDE3MD
-EyMjI5MDIsMTkyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2
-NCwtMjQ3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMj
-c4NjkyOTQxXX0=
+eyJoaXN0b3J5IjpbOTY4MDY0MDkxLDcyMTYzMTM4NiwxNzAxMj
+IyOTAyLDE5MjQ1Mjc2MTAsMTU2MzI1OTYwNCw1MTUwNDU4NjQs
+LTI0Nzk5MjQ5MCwxNTY5MDc1MDE3LDExMzMyNDA2NzQsMTI3OD
+Y5Mjk0MV19
 -->
