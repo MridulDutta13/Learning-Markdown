@@ -11,8 +11,21 @@ and the fox died.
 
 
 The lazy dog was sleeping, and the quick fox jumped over the dog.
-Let's try header levels. there is
+
+Let's try header levels. there is a limit of maximum 6 levels.
+# Header 1
+## Header 2
+### Header 3
+
+#### Header 4
+
+
+##### Header 5
+
+###### Header 6
+####### Header 7
+This shows that there is a limit of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1NDU1Njg0LDExMzMyNDA2NzQsMTI3OD
-Y5Mjk0MV19
+eyJoaXN0b3J5IjpbNTI3MzA4MjksMTEzMzI0MDY3NCwxMjc4Nj
+kyOTQxXX0=
 -->
