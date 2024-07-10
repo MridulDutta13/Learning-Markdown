@@ -74,8 +74,15 @@ To exit, double return. I used asterisk for the list.
 
 ##### Experiment time!! I love this!!
 We know that asterisk can be used for *italics* or **bold**.
+
+Then how to use with with lists?
+
+* *Trying Italics*
+* **Trying Bold**
+
+WOW! this was very easy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjEwNzQ2LDE1NjMyNTk2MDQsNTE1MD
-Q1ODY0LC0yNDc5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0
-LDEyNzg2OTI5NDFdfQ==
+eyJoaXN0b3J5IjpbLTExMDI0ODk3MTYsMTU2MzI1OTYwNCw1MT
+UwNDU4NjQsLTI0Nzk5MjQ5MCwxNTY5MDc1MDE3LDExMzMyNDA2
+NzQsMTI3ODY5Mjk0MV19
 -->
