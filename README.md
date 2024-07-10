@@ -27,9 +27,9 @@ Let's try header levels. there is a limit of maximum 6 levels.
 This shows that there is a limit of 6 levels.
 One more thing to note here is that multiple spaces are combined and reduced to a single line space.
 # Emphasis
-
+Like it or not, the _quick_ fox was not as *quick* as the lazy dog. For italics, we can use bo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg2NDI2MjMsMTEzMzI0MDY3NCwxMj
-c4NjkyOTQxXX0=
+eyJoaXN0b3J5IjpbMTQyNjk4MzczNiwxMTMzMjQwNjc0LDEyNz
+g2OTI5NDFdfQ==
 -->
