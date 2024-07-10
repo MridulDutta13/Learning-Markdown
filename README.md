@@ -54,9 +54,16 @@ Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! N
 Try using double enter or return command.
 
 # Codes
-Use `Ctrl + C` to copy. That's easy.
+Use `Ctrl + C` to copy. That's easy. Use backtick ` symbol.
+
+    abc command
+    def command
+    # for remark
+    happy now
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg0NjI5OTgsNTE1MDQ1ODY0LC0yND
-c5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5
-NDFdfQ==
+eyJoaXN0b3J5IjpbMTc5NDQ5OTYzMiw1MTUwNDU4NjQsLTI0Nz
+k5MjQ5MCwxNTY5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0
+MV19
 -->
