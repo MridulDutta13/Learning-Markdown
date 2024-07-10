@@ -44,7 +44,8 @@ So, this shows that if there is any letter or number at either end, then it will
 Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! Now it works. Need to experiment like this buddy.
 # Quotes: how to use?
 > This is how you should use. Use > symbol.
-This looks good. But how to exit.
+> This looks good.  
+> But how to exit.
 
 
 ##### _Mridul Dutta_
@@ -52,6 +53,6 @@ This looks good. But how to exit.
 
 Try using double enter or return command.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU4NjE1MDIsLTI0Nzk5MjQ5MCwxNT
-Y5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
+eyJoaXN0b3J5IjpbLTY5NTgxNTEyOCwtMjQ3OTkyNDkwLDE1Nj
+kwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
 -->
