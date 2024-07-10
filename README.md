@@ -33,10 +33,10 @@ Similarly for bold, we can use double underscore or asterisk. Always try to be _
 Now if you want to mention a variable name like var_example_int, then this is different case.
 
 So, this shows that if there is any letter or number at either end, then it will not work. Is this happening because of Git flavored Markdown? Think!!
-**Repeat the same using asterisk. **
+**Repeat the same using asterisk.**
 **Please note: Never use spaces before putting asterisk, like this. **
 Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! Now it works. Need to experiment like this buddy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NzcyMTE5LDExMzMyNDA2NzQsMTI3OD
-Y5Mjk0MV19
+eyJoaXN0b3J5IjpbMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNz
+g2OTI5NDFdfQ==
 -->
