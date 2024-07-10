@@ -121,13 +121,15 @@ Great topic for experiment. And you should know now, HOW MUCH I LOVE EXPERIMENTS
 2. Veggies
 	* Potato
 	* Tomato
+		* Small
+		* Big
 
 Alas, I could only use bullets combined with numbers for nesting.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MDY0MDkxLDcyMTYzMTM4NiwxNzAxMj
-IyOTAyLDE5MjQ1Mjc2MTAsMTU2MzI1OTYwNCw1MTUwNDU4NjQs
-LTI0Nzk5MjQ5MCwxNTY5MDc1MDE3LDExMzMyNDA2NzQsMTI3OD
-Y5Mjk0MV19
+eyJoaXN0b3J5IjpbMjAyNzIwNjQ1Miw5NjgwNjQwOTEsNzIxNj
+MxMzg2LDE3MDEyMjI5MDIsMTkyNDUyNzYxMCwxNTYzMjU5NjA0
+LDUxNTA0NTg2NCwtMjQ3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMz
+I0MDY3NCwxMjc4NjkyOTQxXX0=
 -->
