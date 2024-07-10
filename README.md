@@ -86,9 +86,12 @@ Now let's try numbered list.
 1. I like rice.
 2. I don't like roti.
 3. This is auto-numbering.
-4.
+4. I deleted 4 and wrote 5.
+5. But it got auto corrected.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgyMjU5MjgsMTU2MzI1OTYwNCw1MT
-UwNDU4NjQsLTI0Nzk5MjQ5MCwxNTY5MDc1MDE3LDExMzMyNDA2
-NzQsMTI3ODY5Mjk0MV19
+eyJoaXN0b3J5IjpbMTkyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNT
+A0NTg2NCwtMjQ3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3
+NCwxMjc4NjkyOTQxXX0=
 -->
