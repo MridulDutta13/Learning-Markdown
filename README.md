@@ -40,7 +40,7 @@ Now if you want to mention a variable name like var_example_int, then this is di
 
 So, this shows that if there is any letter or number at either end, then it will not work. Is this happening because of Git flavored Markdown? Think!!  
 **Repeat the same using asterisk.**
-**Please note: Never use spaces before putting asterisk, like this. **
+**Please note: Never use spaces before putting asterisk, like this. **  
 Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! Now it works. Need to experiment like this buddy.
 # Quotes: how to use?
 > This is how you should use. Use > symbol.
@@ -53,6 +53,6 @@ Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! N
 
 Try using double enter or return command.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTcwNjMzODQsLTI0Nzk5MjQ5MCwxNT
-Y5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
+eyJoaXN0b3J5IjpbNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OT
+A3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
 -->
