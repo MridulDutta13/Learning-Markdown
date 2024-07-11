@@ -42,6 +42,10 @@ So, this shows that if there is any letter or number at either end, then it will
 **Repeat the same using asterisk.**
 **Please note: Never use spaces before putting asterisk, like this. **  
 Random words like var*example*int, what*ever*, *when*ever, 1*star*, etc. WOW!! Now it works. Need to experiment like this buddy.
+
+***Bold & Italic***
+
+Used asterisk thrice. (Underscore works too)
 # Quotes: how to use?
 > This is how you should use. Use > symbol.
 > This looks good.  
@@ -156,9 +160,9 @@ I love [Google] search engine. (www.google.com "Google Search")
 
 I love [Google] (https://www.google.com "Google Search") search engine.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg5MDEyNzEsLTE4NzIyODk0NzcsMj
-AyNzIwNjQ1Miw5NjgwNjQwOTEsNzIxNjMxMzg2LDE3MDEyMjI5
-MDIsMTkyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMj
-Q3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMjc4Njky
-OTQxXX0=
+eyJoaXN0b3J5IjpbLTUzMDk4NDA0MSwtMTMzODkwMTI3MSwtMT
+g3MjI4OTQ3NywyMDI3MjA2NDUyLDk2ODA2NDA5MSw3MjE2MzEz
+ODYsMTcwMTIyMjkwMiwxOTI0NTI3NjEwLDE1NjMyNTk2MDQsNT
+E1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQw
+Njc0LDEyNzg2OTI5NDFdfQ==
 -->
