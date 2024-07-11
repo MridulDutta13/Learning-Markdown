@@ -177,8 +177,13 @@ Or use
 <https://www.google.com>
 <abcdef@gmail.com>
 
+I found that, if http:// is not used then the angled brackets are still shown.
+
+<www.google.com>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjUyODI1MywtNTMwOTg0MDQxLC0xMz
+eyJoaXN0b3J5IjpbMTAyNDU5ODA5MiwtNTMwOTg0MDQxLC0xMz
 M4OTAxMjcxLC0xODcyMjg5NDc3LDIwMjcyMDY0NTIsOTY4MDY0
 MDkxLDcyMTYzMTM4NiwxNzAxMjIyOTAyLDE5MjQ1Mjc2MTAsMT
 U2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nzk5MjQ5MCwxNTY5MDc1
