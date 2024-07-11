@@ -152,11 +152,13 @@ Use 3 times (or more) - or * or _ for horizontal rule.
 
 
 # Links
-I love [Google] search engine. (www.google.com
+I love [Google] search engine. (www.google.com "Google Search")
+
+I love [Google] (www.google.com "Google Search") search engine.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NjM1NDU1LC0xODcyMjg5NDc3LDIwMj
-cyMDY0NTIsOTY4MDY0MDkxLDcyMTYzMTM4NiwxNzAxMjIyOTAy
-LDE5MjQ1Mjc2MTAsMTU2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nz
-k5MjQ5MCwxNTY5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0
-MV19
+eyJoaXN0b3J5IjpbMTMyNTk1NzQ2NCwtMTg3MjI4OTQ3NywyMD
+I3MjA2NDUyLDk2ODA2NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkw
+MiwxOTI0NTI3NjEwLDE1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yND
+c5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5
+NDFdfQ==
 -->
