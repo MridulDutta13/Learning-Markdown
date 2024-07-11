@@ -148,12 +148,15 @@ Using double spaces with return for hard break.
 ---
 ***
 ___
-Use 3 times - or * or _ for horizontal rule.
+Use 3 times (or more) - or * or _ for horizontal rule.
 
+
+# Links
+I love [Google] search engine. (www.google.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMxNjY3NzEsLTE4NzIyODk0NzcsMj
-AyNzIwNjQ1Miw5NjgwNjQwOTEsNzIxNjMxMzg2LDE3MDEyMjI5
-MDIsMTkyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMj
-Q3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMjc4Njky
-OTQxXX0=
+eyJoaXN0b3J5IjpbODU2NjM1NDU1LC0xODcyMjg5NDc3LDIwMj
+cyMDY0NTIsOTY4MDY0MDkxLDcyMTYzMTM4NiwxNzAxMjIyOTAy
+LDE5MjQ1Mjc2MTAsMTU2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nz
+k5MjQ5MCwxNTY5MDc1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0
+MV19
 -->
