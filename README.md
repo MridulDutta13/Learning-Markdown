@@ -166,15 +166,15 @@ Another referencing way!!
 
 `I love [Mango][fruit]. [fruit]: http://bing.com "Search here"`
 
-Just for showing t
+Just for showing the code I used the quotes.
 
 I love [Mango][fruit].
 
 [fruit]: http://bing.com "Search here"
 
-
+Or use <google.com.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzU1MzAxNywtNTMwOTg0MDQxLC0xMz
+eyJoaXN0b3J5IjpbMTIyNzQwNzk0NywtNTMwOTg0MDQxLC0xMz
 M4OTAxMjcxLC0xODcyMjg5NDc3LDIwMjcyMDY0NTIsOTY4MDY0
 MDkxLDcyMTYzMTM4NiwxNzAxMjIyOTAyLDE5MjQ1Mjc2MTAsMT
 U2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nzk5MjQ5MCwxNTY5MDc1
