@@ -159,8 +159,10 @@ Use 3 times (or more) - or * or _ for horizontal rule.
 I love [Google] search engine. (www.google.com "Google Search")
 
 I love [Google](https://www.google.com "Google Search") search engine.
+
+Used square brackets first, then without any spaces use first bracket.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI2NzE1MzEsLTUzMDk4NDA0MSwtMT
+eyJoaXN0b3J5IjpbLTE0MTM2NjAyNzMsLTUzMDk4NDA0MSwtMT
 MzODkwMTI3MSwtMTg3MjI4OTQ3NywyMDI3MjA2NDUyLDk2ODA2
 NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkwMiwxOTI0NTI3NjEwLD
 E1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OTA3
