@@ -144,11 +144,16 @@ are not cheap.
 Using double spaces with return for hard break.
 # Header1 has horizontal rule.
 ## Header2 too.
+### H3 doesn't
+---
+***
+___
+Use 3 times - or * or _ for horizontal rule.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTc5MzY3OCwtMTg3MjI4OTQ3NywyMD
-I3MjA2NDUyLDk2ODA2NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkw
-MiwxOTI0NTI3NjEwLDE1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yND
-c5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzMxNjY3NzEsLTE4NzIyODk0NzcsMj
+AyNzIwNjQ1Miw5NjgwNjQwOTEsNzIxNjMxMzg2LDE3MDEyMjI5
+MDIsMTkyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMj
+Q3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMjc4Njky
+OTQxXX0=
 -->
