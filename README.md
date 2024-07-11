@@ -138,10 +138,15 @@ In Git output, 4 spaces are working as backtick too, but only when used after an
 
 It can be seen that, only the first level can be ordered in a list.
 
+1. Fruits  
+are not cheap.
+
+Using double spaces with return for hard break.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIyODk0NzcsMjAyNzIwNjQ1Miw5Nj
-gwNjQwOTEsNzIxNjMxMzg2LDE3MDEyMjI5MDIsMTkyNDUyNzYx
-MCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMjQ3OTkyNDkwLDE1Nj
-kwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
+eyJoaXN0b3J5IjpbMTMxNTAzNTg3NCwtMTg3MjI4OTQ3NywyMD
+I3MjA2NDUyLDk2ODA2NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkw
+MiwxOTI0NTI3NjEwLDE1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yND
+c5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5
+NDFdfQ==
 -->
