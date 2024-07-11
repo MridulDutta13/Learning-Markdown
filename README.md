@@ -142,9 +142,11 @@ It can be seen that, only the first level can be ordered in a list.
 are not cheap.
 
 Using double spaces with return for hard break.
+# Header1 has horizontal rule.
+## Header2 too.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTAzNTg3NCwtMTg3MjI4OTQ3NywyMD
+eyJoaXN0b3J5IjpbLTg4NTc5MzY3OCwtMTg3MjI4OTQ3NywyMD
 I3MjA2NDUyLDk2ODA2NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkw
 MiwxOTI0NTI3NjEwLDE1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yND
 c5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5
