@@ -181,11 +181,15 @@ I found that, if http:// is not used then the angled brackets are still shown.
 
 <www.google.com>
 
+# Images
+This is how you can do it, though there are other methods too:
 
+`![Test](http://placehold.it/200x150)`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDU5ODA5MiwtNTMwOTg0MDQxLC0xMz
-M4OTAxMjcxLC0xODcyMjg5NDc3LDIwMjcyMDY0NTIsOTY4MDY0
-MDkxLDcyMTYzMTM4NiwxNzAxMjIyOTAyLDE5MjQ1Mjc2MTAsMT
-U2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nzk5MjQ5MCwxNTY5MDc1
-MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
+eyJoaXN0b3J5IjpbMzM3MTQ5NzE1LDEwMjQ1OTgwOTIsLTUzMD
+k4NDA0MSwtMTMzODkwMTI3MSwtMTg3MjI4OTQ3NywyMDI3MjA2
+NDUyLDk2ODA2NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkwMiwxOT
+I0NTI3NjEwLDE1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0
+OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ
+==
 -->
