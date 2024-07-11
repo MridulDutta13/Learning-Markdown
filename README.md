@@ -185,11 +185,15 @@ I found that, if http:// is not used then the angled brackets are still shown.
 This is how you can do it, though there are other methods too:
 
 `![Test](http://placehold.it/200x150)`
+
+![Test](http://placehold.it/200x150)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3MTQ5NzE1LDEwMjQ1OTgwOTIsLTUzMD
-k4NDA0MSwtMTMzODkwMTI3MSwtMTg3MjI4OTQ3NywyMDI3MjA2
-NDUyLDk2ODA2NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkwMiwxOT
-I0NTI3NjEwLDE1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0
-OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ
-==
+eyJoaXN0b3J5IjpbLTMwNDIxMDIzMywxMDI0NTk4MDkyLC01Mz
+A5ODQwNDEsLTEzMzg5MDEyNzEsLTE4NzIyODk0NzcsMjAyNzIw
+NjQ1Miw5NjgwNjQwOTEsNzIxNjMxMzg2LDE3MDEyMjI5MDIsMT
+kyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMjQ3OTky
+NDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX
+0=
 -->
