@@ -191,12 +191,17 @@ This is how you can do it, though there are other methods too:
 # Inline HTML
 Why? sometimes Markdown does not fulfill the requirement.
 
+dl: definition list  
+dt: definition term
 
+<dl>
+	<dt>Fruit</dt>
+	<dd> I love some, hate some.</dd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDEzNzMyMiwtMzA0MjEwMjMzLDEwMj
-Q1OTgwOTIsLTUzMDk4NDA0MSwtMTMzODkwMTI3MSwtMTg3MjI4
-OTQ3NywyMDI3MjA2NDUyLDk2ODA2NDA5MSw3MjE2MzEzODYsMT
-cwMTIyMjkwMiwxOTI0NTI3NjEwLDE1NjMyNTk2MDQsNTE1MDQ1
-ODY0LC0yNDc5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LD
-EyNzg2OTI5NDFdfQ==
+eyJoaXN0b3J5IjpbLTIwNzY5OTkyMzMsLTMwNDIxMDIzMywxMD
+I0NTk4MDkyLC01MzA5ODQwNDEsLTEzMzg5MDEyNzEsLTE4NzIy
+ODk0NzcsMjAyNzIwNjQ1Miw5NjgwNjQwOTEsNzIxNjMxMzg2LD
+E3MDEyMjI5MDIsMTkyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNTA0
+NTg2NCwtMjQ3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3NC
+wxMjc4NjkyOTQxXX0=
 -->
