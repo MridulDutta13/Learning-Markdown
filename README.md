@@ -136,10 +136,12 @@ Alas, I could only use bullets combined with numbers for nesting.
 In Git output, 4 spaces are working as backtick too, but only when used after an asterisk. New discovery!!
     This is Test.
 
-It can be seen that, only the first level can be ordered.
+It can be seen that, only the first level can be ordered in a list.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNjM4MTgzLDIwMjcyMDY0NTIsOTY4MD
-Y0MDkxLDcyMTYzMTM4NiwxNzAxMjIyOTAyLDE5MjQ1Mjc2MTAs
-MTU2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nzk5MjQ5MCwxNTY5MD
-c1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
+eyJoaXN0b3J5IjpbLTE4NzIyODk0NzcsMjAyNzIwNjQ1Miw5Nj
+gwNjQwOTEsNzIxNjMxMzg2LDE3MDEyMjI5MDIsMTkyNDUyNzYx
+MCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMjQ3OTkyNDkwLDE1Nj
+kwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX0=
 -->
