@@ -164,11 +164,12 @@ Used square brackets first, then without any spaces use first bracket.
 
 Another referencing way!!
 
-`I love Mango]
+`I love [Mango][fruit].  
+[fruit]: http://bing.com "Search here"`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE3MDY1NjcsLTUzMDk4NDA0MSwtMT
-MzODkwMTI3MSwtMTg3MjI4OTQ3NywyMDI3MjA2NDUyLDk2ODA2
-NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkwMiwxOTI0NTI3NjEwLD
-E1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OTA3
-NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
+eyJoaXN0b3J5IjpbMTEwODM3Njg3MywtNTMwOTg0MDQxLC0xMz
+M4OTAxMjcxLC0xODcyMjg5NDc3LDIwMjcyMDY0NTIsOTY4MDY0
+MDkxLDcyMTYzMTM4NiwxNzAxMjIyOTAyLDE5MjQ1Mjc2MTAsMT
+U2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nzk5MjQ5MCwxNTY5MDc1
+MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
 -->
