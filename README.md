@@ -130,9 +130,12 @@ Alas, I could only use bullets combined with numbers for nesting.
 	  * Mango
 	  * Banana
     *   	Green
-    *   	Yellow
+    *   Yellow
+    * Black
+
+In Git output, double spaces are working as backtick too.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODY5ODU3MCwyMDI3MjA2NDUyLDk2OD
+eyJoaXN0b3J5IjpbMTEzOTM4MTIyMCwyMDI3MjA2NDUyLDk2OD
 A2NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkwMiwxOTI0NTI3NjEw
 LDE1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OT
 A3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
