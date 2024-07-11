@@ -172,9 +172,9 @@ I love [Mango][fruit].
 
 [fruit]: http://bing.com "Search here"
 
-Or use <google.com>
+Or use <www.google.com>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY3MjE2MDUsLTUzMDk4NDA0MSwtMT
+eyJoaXN0b3J5IjpbLTEzOTczMTQ1MTAsLTUzMDk4NDA0MSwtMT
 MzODkwMTI3MSwtMTg3MjI4OTQ3NywyMDI3MjA2NDUyLDk2ODA2
 NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkwMiwxOTI0NTI3NjEwLD
 E1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OTA3
