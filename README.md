@@ -188,12 +188,15 @@ This is how you can do it, though there are other methods too:
 
 ![Test](http://placehold.it/200x150)
 
+# Inline HTML
+Why? sometimes Markdown does not fulfill the requirement.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDIxMDIzMywxMDI0NTk4MDkyLC01Mz
-A5ODQwNDEsLTEzMzg5MDEyNzEsLTE4NzIyODk0NzcsMjAyNzIw
-NjQ1Miw5NjgwNjQwOTEsNzIxNjMxMzg2LDE3MDEyMjI5MDIsMT
-kyNDUyNzYxMCwxNTYzMjU5NjA0LDUxNTA0NTg2NCwtMjQ3OTky
-NDkwLDE1NjkwNzUwMTcsMTEzMzI0MDY3NCwxMjc4NjkyOTQxXX
-0=
+eyJoaXN0b3J5IjpbLTk1MDEzNzMyMiwtMzA0MjEwMjMzLDEwMj
+Q1OTgwOTIsLTUzMDk4NDA0MSwtMTMzODkwMTI3MSwtMTg3MjI4
+OTQ3NywyMDI3MjA2NDUyLDk2ODA2NDA5MSw3MjE2MzEzODYsMT
+cwMTIyMjkwMiwxOTI0NTI3NjEwLDE1NjMyNTk2MDQsNTE1MDQ1
+ODY0LC0yNDc5OTI0OTAsMTU2OTA3NTAxNywxMTMzMjQwNjc0LD
+EyNzg2OTI5NDFdfQ==
 -->
