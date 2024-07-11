@@ -101,7 +101,7 @@ Easy-peasy!! Nested lists?
 		* We have Hatch office here.
 	* Kenya
 
-Use `Tab`/ `2 spaces` / `4 spaces`! This depends!!
+Use `Tab`/ `2 spaces`! This depends!!
 Can we use nested numbers?
 
 1. Fruits
@@ -130,13 +130,14 @@ Alas, I could only use bullets combined with numbers for nesting.
 	  * Mango
 	  * Banana
     *   	Green
-    *   Yellow
-    * Black
+    *     Yellow
+    *     Black
 
-In Git output, double spaces are working as backtick too.
+In Git output, 4 spaces are working as backtick too, but only when used after an asterisk.
+    This is Test.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTM4MTIyMCwyMDI3MjA2NDUyLDk2OD
-A2NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkwMiwxOTI0NTI3NjEw
-LDE1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OT
-A3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
+eyJoaXN0b3J5IjpbODg3NjQ2OTcwLDIwMjcyMDY0NTIsOTY4MD
+Y0MDkxLDcyMTYzMTM4NiwxNzAxMjIyOTAyLDE5MjQ1Mjc2MTAs
+MTU2MzI1OTYwNCw1MTUwNDU4NjQsLTI0Nzk5MjQ5MCwxNTY5MD
+c1MDE3LDExMzMyNDA2NzQsMTI3ODY5Mjk0MV19
 -->
