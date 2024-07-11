@@ -101,7 +101,7 @@ Easy-peasy!! Nested lists?
 		* We have Hatch office here.
 	* Kenya
 
-Use `Tab`.
+Use `Tab`/ `2 spaces` / `4 spaces`! This depends!!
 Can we use nested numbers?
 
 1. Fruits
@@ -128,8 +128,8 @@ Alas, I could only use bullets combined with numbers for nesting.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzIwNjQ1Miw5NjgwNjQwOTEsNzIxNj
-MxMzg2LDE3MDEyMjI5MDIsMTkyNDUyNzYxMCwxNTYzMjU5NjA0
-LDUxNTA0NTg2NCwtMjQ3OTkyNDkwLDE1NjkwNzUwMTcsMTEzMz
-I0MDY3NCwxMjc4NjkyOTQxXX0=
+eyJoaXN0b3J5IjpbLTcxODQxMTA2MCwyMDI3MjA2NDUyLDk2OD
+A2NDA5MSw3MjE2MzEzODYsMTcwMTIyMjkwMiwxOTI0NTI3NjEw
+LDE1NjMyNTk2MDQsNTE1MDQ1ODY0LC0yNDc5OTI0OTAsMTU2OT
+A3NTAxNywxMTMzMjQwNjc0LDEyNzg2OTI5NDFdfQ==
 -->
