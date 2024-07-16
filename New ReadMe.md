@@ -9,8 +9,9 @@ This is about table.
 | A1, B1| A1, B2| A1, B3 |
 | A2, B1| A2, B2|A2, B3|
 
+New Test for alignment.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjE5OTg3OSwtMTU2ODIzODM2OCwxNz
+eyJoaXN0b3J5IjpbMTEzOTk3MjAxMSwtMTU2ODIzODM2OCwxNz
 gyODIxNjgwXX0=
 -->
