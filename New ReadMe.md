@@ -16,8 +16,8 @@ New Test for alignment.
 | A1, B1| A1, B2| A1, B3 |
 | A2, B1| A2, B2|A2, B3|
 
-First column is left aligned, second column is center aligned and third column 
+First column is left aligned, second column is center aligned and third column is right aligned. Used colon : symbol.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDg3NjYwNywtMTU2ODIzODM2OCwxNz
-gyODIxNjgwXX0=
+eyJoaXN0b3J5IjpbMTA3MzM2OTUxLC0xNTY4MjM4MzY4LDE3OD
+I4MjE2ODBdfQ==
 -->
