@@ -17,7 +17,16 @@ New Test for alignment.
 | A2, B1| A2, B2|A2, B3|
 
 First column is left aligned, second column is center aligned and third column is right aligned. Used colon : symbol.
+
+# Fenced Code Blocks
+Using backticks.
+
+```
+code line 1
+code line 2
+code line 3
+`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzM2OTUxLC0xNTY4MjM4MzY4LDE3OD
+eyJoaXN0b3J5IjpbMTg2MDM5MDI4LC0xNTY4MjM4MzY4LDE3OD
 I4MjE2ODBdfQ==
 -->
