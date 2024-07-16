@@ -25,8 +25,9 @@ Using backticks.
 code line 1
 code line 2
 code line 3
-`
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDM5MDI4LC0xNTY4MjM4MzY4LDE3OD
-I4MjE2ODBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDQwMDY0OTQsLTE1NjgyMzgzNjgsMT
+c4MjgyMTY4MF19
 -->
